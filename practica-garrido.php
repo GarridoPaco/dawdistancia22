@@ -1,3 +1,4 @@
+// Modificación de archivo para actividad git
 <?php
 /**
   *  @author Paco Garrido
